@@ -37,6 +37,6 @@ apt-get -y install php openssh git wget
 5. bash icu.sh or ./icu.sh
 
 
-thank u</a>
+###thank u</a>
 <p>this is my first tool</p>
 <p>CamPhish is inspired by https://github.com/thelinuxchoice/ Big thanks to @thelinuxchoice</p>

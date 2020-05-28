@@ -1,5 +1,5 @@
 # icu
-icu cam shots from target's phone front camera or PC webcam just sending a link.
+icu get cam shots from target's phone front camera or PC webcam just sending a link.
 ![cheese](https://github.com/Mrjha2014/icu/blob/master/Screenshot_20200528-150504_2.png)
 
 # What is icu?

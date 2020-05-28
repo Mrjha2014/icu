@@ -1,6 +1,6 @@
 # icu
 icu cam shots from target's phone front camera or PC webcam just sending a link.
-![cheese](https://photos.app.goo.gl/2aaSNrtDLThRpLJ99)
+![cheese](https://github.com/Mrjha2014/icu/blob/master/Screenshot_20200528-150504_2.png)
 
 # What is icu?
 <p>icu is techniques to take cam shots of target's phone fornt camera or PC webcam. icu Hosts a fake website on in built PHP server and uses ngrok & serveo to generate a link which we will forward to the target, which can be used on over internet. website asks for camera permission and if the target allows it, this tool grab camshots of target's device</p>

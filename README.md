@@ -24,16 +24,17 @@ icu cam shots from target's phone front camera or PC webcam just sending a link.
 # Installing and requirements
 <p>This tool require PHP for webserver, SSH or serveo link. First run following command on your terminal</p>
 
-```
+
 apt-get -y install php openssh git wget
-```
+
 
 ## Installing (Kali Linux/Termux):
 
-```
-git clone https://github.com/Mrjha2014/icu.git
-cd icu
-bash icu.sh or ./icu.sh
+1. pkg install git
+2. apt-get -y install php openssh git wget
+3. git clone
+4. cd icu
+5. bash icu.sh or ./icu.sh
 ```
 
 #### thank u</a>

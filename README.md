@@ -31,7 +31,7 @@ apt-get -y install php openssh git wget
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/Mrjha2014/icu
+git clone https://github.com/Mrjha2014/icu.git
 cd icu
 bash icu.sh or ./icu.sh
 ```

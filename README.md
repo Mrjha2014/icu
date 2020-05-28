@@ -35,7 +35,7 @@ apt-get -y install php openssh git wget
 3. git clone https://github.com/Mrjha2014/icu.git
 4. cd icu
 5. bash icu.sh or ./icu.sh
-```
+
 
 thank u</a>
 <p>this is my first tool</p>

@@ -18,9 +18,13 @@ echo "||     ██║    ╚██████╗    ╚██████╔�
 echo "||     ╚═╝     ╚═════╝     ╚═════╝     ||"
 echo "||_____________________________________||"
 
-echo "this is only for fun don't use other purpose "
-printf "\n"
 
+
+
+echo "  this is only for fun don't use other purpose "
+printf "\n"
+echo "<>made by:-mr.jha"
+printf "\n"
 
 }
 
